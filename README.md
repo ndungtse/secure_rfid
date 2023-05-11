@@ -50,6 +50,10 @@ src
 
 ## Author
 - [Ndungutse Charles](https://ndungutsecharles.me)
+- [Mugisha Precieux](https://mugishap.vercel.app)
+- [Ineza Axelle](https://inezaxelle.me)
+- [Nzambazamariya Rosine](https://gajurosine.me)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
